@@ -1,0 +1,3 @@
+# text <- readLines(file.choose())
+filePath <- "http://www.link.com/a_text.txt"
+text <- readLines(filePath)
